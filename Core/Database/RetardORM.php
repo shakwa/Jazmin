@@ -7,7 +7,7 @@ namespace Core\Database;
 
 use \Core\Database\Db;
 
-class Crud {
+class RetardORM {
 	private $db;
 	public $variables;
 	public function __construct($data = array()) {
