@@ -113,7 +113,7 @@ Models are used to get and store data in your application. They know nothing abo
 $db = static::getDB();
 ```
 
-###PDO Database Class
+### PDO Database Class
 
 
 A database class for PHP-MySQL which uses the PDO extension.
